@@ -162,7 +162,7 @@ body, html {
     max-width: 800px;
     height: 90vh;
     position: relative;
-    overflow-y: auto;
+    overflow-y: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center;
