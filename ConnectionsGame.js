@@ -7,7 +7,7 @@ const GAME_DATA = {
       },
       {
         category: "STUFF I BOUGHT YOU",
-        words: ["SONNY ANGELS", "TIFFANY NECKLACE", "PANDORA", "FOOD"],
+        words: ["PERFUME", "TIFFANY NECKLACE", "PANDORA", "FOOD"],
         color: "bg-red-200"
       },
       {
