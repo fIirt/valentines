@@ -178,7 +178,7 @@ function handleGifPlayback() {
     gifImage.src = '';
     gifImage.src = currentSrc + '?t=' + new Date().getTime();
 
-    const gifDuration = 54;
+    const gifDuration = 54000;
 
     setTimeout(() => {
         // Remove GIF and add envelope HTML
